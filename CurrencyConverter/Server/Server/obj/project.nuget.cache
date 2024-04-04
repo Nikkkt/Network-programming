@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iZ+gfURTpFy79A+a45YcZAOdE4YOl0H2byTYXYWLoCwFvGxDgPJj0WrrA0Z0CGHvMashPhdAIT/2EPzWRebeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\Desktop\\Programming\\Network programming\\CurrencyConverter\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

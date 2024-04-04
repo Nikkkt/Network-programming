@@ -1,0 +1,17 @@
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.exe
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.deps.json
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.runtimeconfig.json
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\bin\Debug\net8.0\SearchApp.pdb
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.AssemblyInfo.cs
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\refint\SearchApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.pdb
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.genruntimeconfig.cache
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\ref\SearchApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Programming\Network programming\SearchApp\SearchApp\obj\Debug\net8.0\SearchApp.csproj.CopyComplete

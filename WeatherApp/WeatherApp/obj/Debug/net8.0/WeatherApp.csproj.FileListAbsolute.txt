@@ -1,0 +1,17 @@
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.exe
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.deps.json
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.runtimeconfig.json
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\bin\Debug\net8.0\WeatherApp.pdb
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.AssemblyInfo.cs
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.csproj.CopyComplete
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\refint\WeatherApp.dll
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.pdb
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\WeatherApp.genruntimeconfig.cache
+C:\Users\nikit\Desktop\Programming\Network programming\WeatherApp\WeatherApp\obj\Debug\net8.0\ref\WeatherApp.dll

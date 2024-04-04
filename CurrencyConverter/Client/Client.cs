@@ -1,0 +1,3 @@
+﻿using Client;
+
+ClientCurrencyConverter.StartClient();
